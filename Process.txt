@@ -1,0 +1,30 @@
+## For Backend Process 
+
+
+what  npm package to be install 
+npm i mongoose
+
+cd backend
+How to Run: npm run server
+
+## For frontend
+
+what  npm package to be install
+
+npm i axios
+npm i emailjs
+npm i http-proxy-middleware --save
+npm i otp-input-react
+npm i thunk
+
+npm i react-rating-stars-component
+npm i react-hover-image
+npm i react-img-zoom
+
+npm i redux-thunk
+npm i redux-devtools-extension
+
+
+
+cd frontend
+how to Run : npm start
